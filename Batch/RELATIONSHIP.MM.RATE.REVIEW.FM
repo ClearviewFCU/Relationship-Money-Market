@@ -1,0 +1,9 @@
+%PROGRAM MISCFMPOST
+Selection: 05
+File Type: 00
+Undo a Posting from FM Posting Journal?: N
+Report Title: Relationship MM Rate - FM
+Limit Search Days to: 01
+Record FM History?: Y
+Name of Posting: REL MM RATES FM
+Produce Empty Report if No Exceptions?: N
